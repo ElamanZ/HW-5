@@ -33,9 +33,9 @@ convert(eur, som, usd)
 
 //HW-5.2
 const message = {
-    loading: "Идет загрузка...",
-    success: "Спасбо, скоро свяжемся!",
-    fail: "Что-то пошло не так"
+    loading: "Loading...",
+    success: "Success!",
+    fail: "Error"
 }
 
 const forms = document.querySelectorAll("form")
